@@ -8,4 +8,8 @@ RSpec.describe Network do
 
     expect(gsmn.name).to eq("Greater Seattle Medical Network")
   end
+
+  it 'has hospitals' do
+
+  end 
 end
